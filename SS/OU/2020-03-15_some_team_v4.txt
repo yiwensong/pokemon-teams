@@ -52,5 +52,5 @@ Impish Nature
 - Spikes  
 - Leech Seed  
 - Power Whip  
-- Leech Seed  
+- Knock Off  
 
